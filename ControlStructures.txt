@@ -1,0 +1,21 @@
+public class ControlStructures {
+
+  public static void main(String[] args) {
+    System.out.println("Control Structures:");
+
+    // Conditional Statements
+    System.out.println("\t- Conditional Statements (if/else/else if):");
+    System.out.println("\t\tUsed for making decisions based on conditions.");
+
+    // Loops
+    System.out.println("\t- Loops (for, while, do-while):");
+    System.out.println("\t\tUsed for repeating a block of code multiple times.");
+      System.out.println("\t\t\t- for loop: Executes a block of code a fixed number of times.");
+      System.out.println("\t\t\t- while loop: Executes a block of code as long as a condition is true.");
+      System.out.println("\t\t\t- do-while loop: Executes a block of code at least once, then continues as long as a condition is true.");
+
+    // Switch Statement
+    System.out.println("\t- Switch Statement:");
+    System.out.println("\t\tUsed for making multi-way decisions based on a value.");
+  }
+}
